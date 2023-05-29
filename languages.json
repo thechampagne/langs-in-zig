@@ -12,5 +12,12 @@
         "description": "Small, strongly typed, embeddable language.",
         "stars": 419,
         "active": true
+    },
+    {
+        "name": "buzz",
+        "url": "https://github.com/buzz-language/buzz",
+        "description": ":man_astronaut: buzz, A small/lightweight statically typed scripting language.",
+        "stars": 551,
+        "active": true
     }
 ]

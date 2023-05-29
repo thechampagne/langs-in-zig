@@ -16,6 +16,7 @@ Then it can be included in this list!
 | Name | ⭐ Stars | ☀️ Status | Description |
 |:-----|:---------|:-----------|:-----------|
 | [Zig] | 22,422 | ☀️ Active | General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software. |
+| [buzz] | 551 | ☀️ Active | :man_astronaut: buzz, A small/lightweight statically typed scripting language. |
 | [bog] | 419 | ☀️ Active | Small, strongly typed, embeddable language. |
 
 ## License
@@ -25,3 +26,4 @@ Then it can be included in this list!
 
 [Zig]: https://github.com/ziglang/zig
 [bog]: https://github.com/Vexu/bog
+[buzz]: https://github.com/buzz-language/buzz
