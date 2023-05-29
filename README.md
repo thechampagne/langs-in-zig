@@ -15,6 +15,7 @@ Then it can be included in this list!
 
 | Name | ⭐ Stars | ☀️ Status | Description |
 |:-----|:---------|:-----------|:-----------|
+| [Bun] | 41,608 | ☀️ Active | Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one. |
 | [Zig] | 22,426 | ☀️ Active | General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software. |
 | [Cyber] | 787 | ☀️ Active | Fast and concurrent scripting. |
 | [buzz] | 552 | ☀️ Active | 👨‍🚀  buzz, A small/lightweight statically typed scripting language (in development) |
@@ -43,3 +44,4 @@ Then it can be included in this list!
 [Mocha]: https://github.com/hqnna/mocha
 [Foray]: https://github.com/Grinshpon/Foray
 [APScript]: https://github.com/sno2/apscript-zig-archive
+[Bun]: https://github.com/oven-sh/bun

@@ -75,5 +75,12 @@
         "description": "An interpreter for the AP© Computer Science Principles pseudocode language.",
         "stars": 5,
         "active": false
+    },
+    {
+        "name": "Bun",
+        "url": "https://github.com/oven-sh/bun",
+        "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one.",
+        "stars": 41608,
+        "active": true
     }
 ]
