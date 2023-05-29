@@ -110,5 +110,12 @@
         "description": "OpenQASM parser.",
         "stars": 0,
         "active": false
+    },
+    {
+        "name": "monkeyZ",
+        "url": "https://github.com/andreabertanzon/monkeyZ",
+        "description": "An interpreter for the monkeyZ language.",
+        "stars": 0,
+        "active": true
     }
 ]

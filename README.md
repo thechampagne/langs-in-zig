@@ -25,6 +25,7 @@ Then it can be included in this list!
 | [Mocha] | 55 | ☀️ Active | An elegant configuration language for both humans and machines. |
 | [Jazmin] | 9 | ☀️ Active | Zig implementation of Jasmin |
 | [Foray] | 7 | ☀️ Active | A concatenative language written in Zig |
+| [monkeyZ] | 0 | ☀️ Active | An interpreter for the monkeyZ language. |
 | [Zua] | 115 | 🌙 Inactive | An implementation of Lua 5.1 in Zig, for learning purposes |
 | [Luf] | 30 | 🌙 Inactive | Statically typed, embeddable, scripting language written in Zig. |
 | [APScript] | 5 | 🌙 Inactive | An interpreter for the AP© Computer Science Principles pseudocode language. |
@@ -53,3 +54,4 @@ Then it can be included in this list!
 [brainfuck-interpreter]: https://github.com/rubenkristian/brainfuck-interpreter
 [Aro]: https://github.com/Vexu/arocc
 [zQasm]: https://github.com/AbeerVaishnav13/zQasm
+[monkeyZ]: https://github.com/andreabertanzon/monkeyZ
