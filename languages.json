@@ -82,5 +82,12 @@
         "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one.",
         "stars": 41608,
         "active": true
+    },
+    {
+        "name": "zbfi",
+        "url": "https://github.com/PrajwalCH/zbfi",
+        "description": "BrainFuck :robot: language interpreter.",
+        "stars": 1,
+        "active": false
     }
 ]
