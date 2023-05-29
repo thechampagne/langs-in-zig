@@ -33,5 +33,26 @@
         "description": "LoLa is a small programming language meant to be embedded into games.",
         "stars": 151,
         "active": true
+    },
+    {
+        "name": "Luf",
+        "url": "https://github.com/Luukdegram/luf",
+        "description": "Statically typed, embeddable, scripting language written in Zig.",
+        "stars": 30,
+        "active": false
+    },
+    {
+        "name": "Zua",
+        "url": "https://github.com/squeek502/zua",
+        "description": "An implementation of Lua 5.1 in Zig, for learning purposes",
+        "stars": 115,
+        "active": false
+    },
+    {
+        "name": "Jazmin",
+        "url": "https://github.com/desttinghim/jazmin",
+        "description": "Zig implementation of Jasmin",
+        "stars": 9,
+        "active": true
     }
 ]

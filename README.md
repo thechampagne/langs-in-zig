@@ -20,6 +20,9 @@ Then it can be included in this list!
 | [buzz] | 551 | ☀️ Active | 👨‍🚀  buzz, A small/lightweight statically typed scripting language (in development) |
 | [bog] | 419 | ☀️ Active | Small, strongly typed, embeddable language. |
 | [LoLa] | 151 | ☀️ Active | LoLa is a small programming language meant to be embedded into games. |
+| [Jazmin] | 9 | ☀️ Active | Zig implementation of Jasmin |
+| [Zua] | 115 | 🌙 Inactive | An implementation of Lua 5.1 in Zig, for learning purposes |
+| [Luf] | 30 | 🌙 Inactive | Statically typed, embeddable, scripting language written in Zig. |
 
 ## License
 
@@ -31,3 +34,6 @@ Then it can be included in this list!
 [buzz]: https://github.com/buzz-language/buzz
 [Cyber]: https://github.com/fubark/cyber
 [LoLa]: https://github.com/MasterQ32/LoLa
+[Luf]: https://github.com/Luukdegram/luf
+[Zua]: https://github.com/squeek502/zua
+[Jazmin]: https://github.com/desttinghim/jazmin
