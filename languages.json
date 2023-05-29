@@ -89,5 +89,12 @@
         "description": "BrainFuck :robot: language interpreter.",
         "stars": 1,
         "active": false
+    },
+    {
+        "name": "brainfuck-interpreter",
+        "url": "https://github.com/rubenkristian/brainfuck-interpreter",
+        "description": "Brainfuck interpreter.",
+        "stars": 0,
+        "active": false
     }
 ]

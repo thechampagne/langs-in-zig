@@ -28,6 +28,7 @@ Then it can be included in this list!
 | [Luf] | 30 | 🌙 Inactive | Statically typed, embeddable, scripting language written in Zig. |
 | [APScript] | 5 | 🌙 Inactive | An interpreter for the AP© Computer Science Principles pseudocode language. |
 | [zbfi] | 1 | 🌙 Inactive | BrainFuck :robot: language interpreter. |
+| [brainfuck-interpreter] | 0 | 🌙 Inactive | Brainfuck interpreter. |
 
 ## License
 
@@ -47,3 +48,4 @@ Then it can be included in this list!
 [APScript]: https://github.com/sno2/apscript-zig-archive
 [Bun]: https://github.com/oven-sh/bun
 [zbfi]: https://github.com/PrajwalCH/zbfi
+[brainfuck-interpreter]: https://github.com/rubenkristian/brainfuck-interpreter
