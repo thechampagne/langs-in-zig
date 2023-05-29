@@ -54,5 +54,12 @@
         "description": "Zig implementation of Jasmin",
         "stars": 9,
         "active": true
+    },
+    {
+        "name": "Mocha",
+        "url": "https://github.com/hqnna/mocha",
+        "description": "An elegant configuration language for both humans and machines.",
+        "stars": 55,
+        "active": true
     }
 ]
