@@ -3,7 +3,14 @@
         "name": "Zig",
         "url": "https://github.com/ziglang/zig",
         "description": "General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.",
-        "stars": 22415,
+        "stars": 22422,
+        "active": true
+    },
+    {
+        "name": "bog",
+        "url": "https://github.com/Vexu/bog",
+        "description": "Small, strongly typed, embeddable language.",
+        "stars": 419,
         "active": true
     }
 ]

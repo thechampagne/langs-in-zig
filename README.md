@@ -15,7 +15,8 @@ Then it can be included in this list!
 
 | Name | ⭐ Stars | ☀️ Status | Description |
 |:-----|:---------|:-----------|:-----------|
-| [Zig] | 22,415 | ☀️ Active | General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software. |
+| [Zig] | 22,422 | ☀️ Active | General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software. |
+| [bog] | 419 | ☀️ Active | Small, strongly typed, embeddable language. |
 
 ## License
 
@@ -23,3 +24,4 @@ Then it can be included in this list!
 * Everything else - [CC-BY-4.0](https://github.com/thechampagne/langs-in-zig/blob/main/LICENSE)
 
 [Zig]: https://github.com/ziglang/zig
+[bog]: https://github.com/Vexu/bog
