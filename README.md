@@ -19,6 +19,7 @@ Then it can be included in this list!
 | [Zig] | 22,426 | ☀️ Active | General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software. |
 | [Cyber] | 787 | ☀️ Active | Fast and concurrent scripting. |
 | [buzz] | 552 | ☀️ Active | 👨‍🚀  buzz, A small/lightweight statically typed scripting language (in development) |
+| [Aro] | 508 | ☀️ Active | A C compiler with the goal of providing fast compilation and low memory usage with good diagnostics. |
 | [bog] | 419 | ☀️ Active | Small, strongly typed, embeddable language. |
 | [LoLa] | 151 | ☀️ Active | LoLa is a small programming language meant to be embedded into games. |
 | [Mocha] | 55 | ☀️ Active | An elegant configuration language for both humans and machines. |
@@ -49,3 +50,4 @@ Then it can be included in this list!
 [Bun]: https://github.com/oven-sh/bun
 [zbfi]: https://github.com/PrajwalCH/zbfi
 [brainfuck-interpreter]: https://github.com/rubenkristian/brainfuck-interpreter
+[Aro]: https://github.com/Vexu/arocc
