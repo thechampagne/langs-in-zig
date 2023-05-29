@@ -132,7 +132,7 @@ def api_request(token):
                 languages[count] = {
                     "name": lang["name"],
                     "url": lang["url"],
-                    "description": data["description"],
+                    "description": lang["description"],
                     "stars": data["stargazers_count"],
                     "active": is_active(data["pushed_at"]),
                 }
