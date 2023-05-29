@@ -25,6 +25,7 @@ Then it can be included in this list!
 | [Foray] | 7 | ☀️ Active | A concatenative language written in Zig |
 | [Zua] | 115 | 🌙 Inactive | An implementation of Lua 5.1 in Zig, for learning purposes |
 | [Luf] | 30 | 🌙 Inactive | Statically typed, embeddable, scripting language written in Zig. |
+| [APScript] | 5 | 🌙 Inactive | An interpreter for the AP© Computer Science Principles pseudocode language. |
 
 ## License
 
@@ -41,3 +42,4 @@ Then it can be included in this list!
 [Jazmin]: https://github.com/desttinghim/jazmin
 [Mocha]: https://github.com/hqnna/mocha
 [Foray]: https://github.com/Grinshpon/Foray
+[APScript]: https://github.com/sno2/apscript-zig-archive

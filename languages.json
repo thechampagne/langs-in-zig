@@ -68,5 +68,12 @@
         "description": "A concatenative language written in Zig",
         "stars": 7,
         "active": true
+    },
+    {
+        "name": "APScript",
+        "url": "https://github.com/sno2/apscript-zig-archive",
+        "description": "An interpreter for the AP© Computer Science Principles pseudocode language.",
+        "stars": 5,
+        "active": false
     }
 ]
