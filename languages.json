@@ -124,5 +124,12 @@
         "description": "A parser for parsing djot files and converting them to HTML.",
         "stars": 5,
         "active": false
+    },
+    {
+        "name": "kule-lang",
+        "url": "https://github.com/musi-musi/kule-lang",
+        "description": "kule shader language.",
+        "stars": 1,
+        "active": false
     }
 ]

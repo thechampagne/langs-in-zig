@@ -31,6 +31,7 @@ Then it can be included in this list!
 | [APScript] | 5 | 🌙 Inactive | An interpreter for the AP© Computer Science Principles pseudocode language. |
 | [djot.zig] | 5 | 🌙 Inactive | A parser for parsing djot files and converting them to HTML. |
 | [zbfi] | 1 | 🌙 Inactive | BrainFuck :robot: language interpreter. |
+| [kule-lang] | 1 | 🌙 Inactive | kule shader language. |
 | [brainfuck-interpreter] | 0 | 🌙 Inactive | Brainfuck interpreter. |
 | [zQasm] | 0 | 🌙 Inactive | OpenQASM parser. |
 
@@ -57,3 +58,4 @@ Then it can be included in this list!
 [zQasm]: https://github.com/AbeerVaishnav13/zQasm
 [monkeyZ]: https://github.com/andreabertanzon/monkeyZ
 [djot.zig]: https://github.com/leroycep/djot.zig
+[kule-lang]: https://github.com/musi-musi/kule-lang
