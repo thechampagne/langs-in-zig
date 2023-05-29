@@ -16,9 +16,10 @@ Then it can be included in this list!
 | Name | ⭐ Stars | ☀️ Status | Description |
 |:-----|:---------|:-----------|:-----------|
 | [Zig] | 22,422 | ☀️ Active | General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software. |
-| [Cyber] | 787 | ☀️ Active | Cyber is a fast, efficient, and concurrent scripting language. You can embed it into your applications, games, or engines on desktop or web. |
-| [buzz] | 551 | ☀️ Active | :man_astronaut: buzz, A small/lightweight statically typed scripting language. |
+| [Cyber] | 787 | ☀️ Active | Fast and concurrent scripting. |
+| [buzz] | 551 | ☀️ Active | 👨‍🚀  buzz, A small/lightweight statically typed scripting language (in development) |
 | [bog] | 419 | ☀️ Active | Small, strongly typed, embeddable language. |
+| [LoLa] | 151 | ☀️ Active | LoLa is a small programming language meant to be embedded into games. |
 
 ## License
 
@@ -29,3 +30,4 @@ Then it can be included in this list!
 [bog]: https://github.com/Vexu/bog
 [buzz]: https://github.com/buzz-language/buzz
 [Cyber]: https://github.com/fubark/cyber
+[LoLa]: https://github.com/MasterQ32/LoLa
