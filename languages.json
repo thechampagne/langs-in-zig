@@ -103,5 +103,12 @@
         "description": "A C compiler with the goal of providing fast compilation and low memory usage with good diagnostics.",
         "stars": 508,
         "active": true
+    },
+    {
+        "name": "zQasm",
+        "url": "https://github.com/AbeerVaishnav13/zQasm",
+        "description": "OpenQASM parser.",
+        "stars": 0,
+        "active": false
     }
 ]

@@ -30,6 +30,7 @@ Then it can be included in this list!
 | [APScript] | 5 | 🌙 Inactive | An interpreter for the AP© Computer Science Principles pseudocode language. |
 | [zbfi] | 1 | 🌙 Inactive | BrainFuck :robot: language interpreter. |
 | [brainfuck-interpreter] | 0 | 🌙 Inactive | Brainfuck interpreter. |
+| [zQasm] | 0 | 🌙 Inactive | OpenQASM parser. |
 
 ## License
 
@@ -51,3 +52,4 @@ Then it can be included in this list!
 [zbfi]: https://github.com/PrajwalCH/zbfi
 [brainfuck-interpreter]: https://github.com/rubenkristian/brainfuck-interpreter
 [Aro]: https://github.com/Vexu/arocc
+[zQasm]: https://github.com/AbeerVaishnav13/zQasm
