@@ -3,7 +3,7 @@
         "name": "Zig",
         "url": "https://github.com/ziglang/zig",
         "description": "General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.",
-        "stars": 22422,
+        "stars": 22426,
         "active": true
     },
     {
@@ -17,7 +17,7 @@
         "name": "buzz",
         "url": "https://github.com/buzz-language/buzz",
         "description": "\ud83d\udc68\u200d\ud83d\ude80  buzz, A small/lightweight statically typed scripting language (in development)",
-        "stars": 551,
+        "stars": 552,
         "active": true
     },
     {
@@ -60,6 +60,13 @@
         "url": "https://github.com/hqnna/mocha",
         "description": "An elegant configuration language for both humans and machines.",
         "stars": 55,
+        "active": true
+    },
+    {
+        "name": "Foray",
+        "url": "https://github.com/Grinshpon/Foray",
+        "description": "A concatenative language written in Zig",
+        "stars": 7,
         "active": true
     }
 ]
