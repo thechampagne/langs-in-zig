@@ -117,5 +117,12 @@
         "description": "An interpreter for the monkeyZ language.",
         "stars": 0,
         "active": true
+    },
+    {
+        "name": "djot.zig",
+        "url": "https://github.com/leroycep/djot.zig",
+        "description": "A parser for parsing djot files and converting them to HTML.",
+        "stars": 5,
+        "active": false
     }
 ]

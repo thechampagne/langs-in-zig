@@ -29,6 +29,7 @@ Then it can be included in this list!
 | [Zua] | 115 | 🌙 Inactive | An implementation of Lua 5.1 in Zig, for learning purposes |
 | [Luf] | 30 | 🌙 Inactive | Statically typed, embeddable, scripting language written in Zig. |
 | [APScript] | 5 | 🌙 Inactive | An interpreter for the AP© Computer Science Principles pseudocode language. |
+| [djot.zig] | 5 | 🌙 Inactive | A parser for parsing djot files and converting them to HTML. |
 | [zbfi] | 1 | 🌙 Inactive | BrainFuck :robot: language interpreter. |
 | [brainfuck-interpreter] | 0 | 🌙 Inactive | Brainfuck interpreter. |
 | [zQasm] | 0 | 🌙 Inactive | OpenQASM parser. |
@@ -55,3 +56,4 @@ Then it can be included in this list!
 [Aro]: https://github.com/Vexu/arocc
 [zQasm]: https://github.com/AbeerVaishnav13/zQasm
 [monkeyZ]: https://github.com/andreabertanzon/monkeyZ
+[djot.zig]: https://github.com/leroycep/djot.zig
