@@ -131,5 +131,12 @@
         "description": "kule shader language.",
         "stars": 1,
         "active": false
+    },
+    {
+        "name": "Orng",
+        "url": "https://github.com/Rakhyvel/Orng",
+        "description": "Orng is a versatile general purpose programming language that gives developers control while still being expressive.",
+        "stars": 2,
+        "active": true
     }
 ]

@@ -25,6 +25,7 @@ Then it can be included in this list!
 | [Mocha] | 55 | ☀️ Active | An elegant configuration language for both humans and machines. |
 | [Jazmin] | 9 | ☀️ Active | Zig implementation of Jasmin |
 | [Foray] | 7 | ☀️ Active | A concatenative language written in Zig |
+| [Orng] | 2 | ☀️ Active | Orng is a versatile general purpose programming language that gives developers control while still being expressive. |
 | [monkeyZ] | 0 | ☀️ Active | An interpreter for the monkeyZ language. |
 | [Zua] | 115 | 🌙 Inactive | An implementation of Lua 5.1 in Zig, for learning purposes |
 | [Luf] | 30 | 🌙 Inactive | Statically typed, embeddable, scripting language written in Zig. |
@@ -59,3 +60,4 @@ Then it can be included in this list!
 [monkeyZ]: https://github.com/andreabertanzon/monkeyZ
 [djot.zig]: https://github.com/leroycep/djot.zig
 [kule-lang]: https://github.com/musi-musi/kule-lang
+[Orng]: https://github.com/Rakhyvel/Orng
