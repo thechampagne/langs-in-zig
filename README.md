@@ -30,6 +30,7 @@ Then it can be included in this list!
 | [monkeyZ] | 0 | ☀️ Active | An interpreter for the monkeyZ language. |
 | [lox-zig] | 0 | ☀️ Active | A bytecode VM compiler / interpreter for the Lox language. |
 | [keto] | 0 | ☀️ Active | keto is an experimental scripting language based on "Crafting Interpreters" by Robert Nystrom. |
+| [ts-parser-zig] | 0 | ☀️ Active | A Hand Written TypeScript parser. |
 | [Zua] | 115 | 🌙 Inactive | An implementation of Lua 5.1 in Zig, for learning purposes |
 | [Luf] | 30 | 🌙 Inactive | Statically typed, embeddable, scripting language written in Zig. |
 | [APScript] | 5 | 🌙 Inactive | An interpreter for the AP© Computer Science Principles pseudocode language. |
@@ -67,3 +68,4 @@ Then it can be included in this list!
 [zigself]: https://github.com/sin-ack/zigself
 [lox-zig]: https://github.com/adrianchong518/lox-zig
 [keto]: https://github.com/Wuschli/keto
+[ts-parser-zig]: https://github.com/Himujjal/ts-parser-zig

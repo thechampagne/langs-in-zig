@@ -159,5 +159,12 @@
         "description": "keto is an experimental scripting language based on \"Crafting Interpreters\" by Robert Nystrom.",
         "stars": 0,
         "active": true
+    },
+    {
+        "name": "ts-parser-zig",
+        "url": "https://github.com/Himujjal/ts-parser-zig",
+        "description": "A Hand Written TypeScript parser.",
+        "stars": 0,
+        "active": true
     }
 ]
