@@ -145,5 +145,12 @@
         "description": "An implementation of the Self programming language.",
         "stars": 110,
         "active": true
+    },
+    {
+        "name": "lox-zig",
+        "url": "https://github.com/adrianchong518/lox-zig",
+        "description": "A bytecode VM compiler / interpreter for the Lox language.",
+        "stars": 0,
+        "active": true
     }
 ]

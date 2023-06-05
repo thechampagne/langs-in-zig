@@ -28,6 +28,7 @@ Then it can be included in this list!
 | [Foray] | 7 | ☀️ Active | A concatenative language written in Zig |
 | [Orng] | 2 | ☀️ Active | Orng is a versatile general purpose programming language that gives developers control while still being expressive. |
 | [monkeyZ] | 0 | ☀️ Active | An interpreter for the monkeyZ language. |
+| [lox-zig] | 0 | ☀️ Active | A bytecode VM compiler / interpreter for the Lox language. |
 | [Zua] | 115 | 🌙 Inactive | An implementation of Lua 5.1 in Zig, for learning purposes |
 | [Luf] | 30 | 🌙 Inactive | Statically typed, embeddable, scripting language written in Zig. |
 | [APScript] | 5 | 🌙 Inactive | An interpreter for the AP© Computer Science Principles pseudocode language. |
@@ -63,3 +64,4 @@ Then it can be included in this list!
 [kule-lang]: https://github.com/musi-musi/kule-lang
 [Orng]: https://github.com/Rakhyvel/Orng
 [zigself]: https://github.com/sin-ack/zigself
+[lox-zig]: https://github.com/adrianchong518/lox-zig
