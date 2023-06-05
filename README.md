@@ -22,6 +22,7 @@ Then it can be included in this list!
 | [Aro] | 508 | ☀️ Active | A C compiler with the goal of providing fast compilation and low memory usage with good diagnostics. |
 | [bog] | 419 | ☀️ Active | Small, strongly typed, embeddable language. |
 | [LoLa] | 151 | ☀️ Active | LoLa is a small programming language meant to be embedded into games. |
+| [zigself] | 110 | ☀️ Active | An implementation of the Self programming language. |
 | [Mocha] | 55 | ☀️ Active | An elegant configuration language for both humans and machines. |
 | [Jazmin] | 9 | ☀️ Active | Zig implementation of Jasmin |
 | [Foray] | 7 | ☀️ Active | A concatenative language written in Zig |
@@ -61,3 +62,4 @@ Then it can be included in this list!
 [djot.zig]: https://github.com/leroycep/djot.zig
 [kule-lang]: https://github.com/musi-musi/kule-lang
 [Orng]: https://github.com/Rakhyvel/Orng
+[zigself]: https://github.com/sin-ack/zigself

@@ -138,5 +138,12 @@
         "description": "Orng is a versatile general purpose programming language that gives developers control while still being expressive.",
         "stars": 2,
         "active": true
+    },
+    {
+        "name": "zigself",
+        "url": "https://github.com/sin-ack/zigself",
+        "description": "An implementation of the Self programming language.",
+        "stars": 110,
+        "active": true
     }
 ]
