@@ -152,5 +152,12 @@
         "description": "A bytecode VM compiler / interpreter for the Lox language.",
         "stars": 0,
         "active": true
+    },
+    {
+        "name": "keto",
+        "url": "https://github.com/Wuschli/keto",
+        "description": "keto is an experimental scripting language based on \"Crafting Interpreters\" by Robert Nystrom.",
+        "stars": 0,
+        "active": true
     }
 ]
