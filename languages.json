@@ -166,5 +166,12 @@
         "description": "A Hand Written TypeScript parser.",
         "stars": 0,
         "active": true
+    },
+    {
+        "name": "zed",
+        "url": "https://github.com/jecolon/zed",
+        "description": "The zed Programming Language is inspired by AWK in its main mode of operating on text files divided into records (usually lines), and columns within thos recoeds.",
+        "stars": 10,
+        "active": false
     }
 ]

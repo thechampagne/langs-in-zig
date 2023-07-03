@@ -33,6 +33,7 @@ Then it can be included in this list!
 | [ts-parser-zig] | 0 | ☀️ Active | A Hand Written TypeScript parser. |
 | [Zua] | 115 | 🌙 Inactive | An implementation of Lua 5.1 in Zig, for learning purposes |
 | [Luf] | 30 | 🌙 Inactive | Statically typed, embeddable, scripting language written in Zig. |
+| [zed] | 10 | 🌙 Inactive | The zed Programming Language is inspired by AWK in its main mode of operating on text files divided into records (usually lines), and columns within thos recoeds. |
 | [APScript] | 5 | 🌙 Inactive | An interpreter for the AP© Computer Science Principles pseudocode language. |
 | [djot.zig] | 5 | 🌙 Inactive | A parser for parsing djot files and converting them to HTML. |
 | [zbfi] | 1 | 🌙 Inactive | BrainFuck :robot: language interpreter. |
@@ -69,3 +70,4 @@ Then it can be included in this list!
 [lox-zig]: https://github.com/adrianchong518/lox-zig
 [keto]: https://github.com/Wuschli/keto
 [ts-parser-zig]: https://github.com/Himujjal/ts-parser-zig
+[zed]: https://github.com/jecolon/zed
